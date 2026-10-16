@@ -1,0 +1,57 @@
+# ==========================================================
+#  Unity - thư mục KHÔNG đẩy lên GitHub
+# ==========================================================
+
+# Thư mục sinh tự động (bắt buộc bỏ)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Bản tài nguyên gốc của đề bài (đã copy vào Assets/ rồi)
+Lab2Assets/
+
+# File sinh tự động bởi IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# File build / crash
+*.stackdump
+crashlytics-build.properties
+sysinfo.txt
+*.tmp
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Ảnh/asset nháp
+*.bak
+*.orig
+*~
